@@ -1,0 +1,35 @@
+Chris Heald (33):
+      8a4d0e9: Initial commit, still in development
+      241ef45: Add embeds.xml
+      6c7ab02: Added ping module
+      e5c6090: Added presets; will set the Blue Runes preset first time addon is run
+      f63e84b: Make the first run variable a bit more intuitive
+      5aa9c32: Sexied up the config options a bit more
+      a7db17d: Add scale option to main options
+      b97e53a: Add opacity to master settings, add TexBrowser launcher to border settings
+      208f86c: Add shape selection options, add shape to presets, add a new purple diamond preset
+      67dcb2c: Make scaling more granular
+      8e19207: Add 'Burning Sun' preset
+      d05e1e9: Added 'Midnight Moon' preset
+      d0be0ff: Add LibStub, fix embeds.xml
+      0312b14: Change to directly embedded libstub, rather than .pkgmeta'd libstub
+      32e0b8f: Upvalue some globals
+      842c606: Added new mail indicator to buttons module
+      6d2172f: Add AutoZoom module
+      bd1d8cd: Add hide/hover control for other buttons added to the minimap by other mods
+      c28d0fa: Only show the mail icon when we have new mail
+      4370da6: Bugfixes, thanks Zhinjio
+      2683542: Fix up the menus a bit
+      299134b: Another shot at elimitating this keys with spaces problem
+      fb78bac: Add button dragging, with configrable drag radius (and some other stuff too)
+      2ecc742: Minor debug cleanup
+      6b6ce81:  Apply alpha/scale OnEnable
+      7b08f53: Make the Burning Sun preset a little less...bright
+      bdb9208: More presets, added 'No rotation' mode to borders for square textures
+      5e09ad4: Added Parchment preset
+      b64dd2f: Update localization
+      6fb408e: Fix problem with SetAlpha in buttons module
+      8704edf: Added player facing tracking and tracking preset
+      9647895: Throttle rotation updates, fix some button movement issues, make shapes apply on mod load
+      b824448: Add option to turn off right-click-to-configure
+

@@ -1,0 +1,26 @@
+## Interface: 30000
+## Title: SexyMap
+## Notes: Spice up ye olde minimap with some sexytime options.
+## Author: Antiarc
+## OptionalDeps: Ace3, Blizzard_TimeManager
+## SavedVariables: SexyMapDB
+
+# Libraries, etc
+embeds.xml
+
+# Localization
+localization\enUS.lua
+
+# Core
+SexyMap.lua
+
+# Comes first, has default option set
+General.lua
+
+# Other modules
+AutoZoom.lua
+Buttons.lua
+BorderPresets.lua
+Borders.lua
+Ping.lua
+ZoneText.lua
