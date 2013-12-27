@@ -89,7 +89,7 @@ do
 						return IsVoiceChatEnabled() and GetNumVoiceSessions()
 					end},
 		pvp 		= {"MiniMapBattlefieldFrame", show = function(f)
-						return not ( BattlefieldFrame.numQueues == 0 and (not CanHearthAndResurrectFromArea()) )
+						return not ( BattlefieldFrame.numQueues == 0 )
 					end}
 	}
 

@@ -1,7 +1,7 @@
-## Interface: 30000
+## Interface: 20400
 ## Title: SexyMap
 ## Notes: Spice up ye olde minimap with some sexytime options.
-## Author: Antiarc
+## Author: Antiarc, Siarkowy
 ## OptionalDeps: Ace3, Blizzard_TimeManager
 ## SavedVariables: SexyMapDB
 
